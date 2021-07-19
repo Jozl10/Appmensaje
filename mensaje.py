@@ -1,4 +1,3 @@
-import os
+#coding=utf-8
 
 print("Dockerizando una aplicación")
-os.system("pause")
